@@ -5,3 +5,7 @@
 1. HTML
 2. CSS
 3. JavaScript
+
+## Live Link of the project
+
+[Click Here](https://thetaleofearth.netlify.app/)
